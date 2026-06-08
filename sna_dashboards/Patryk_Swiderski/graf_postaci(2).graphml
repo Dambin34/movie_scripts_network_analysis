@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="SIDNEY">
+  <data key="d0">SIDNEY</data>
+</node>
+<node id="TATUM">
+  <data key="d0">TATUM</data>
+</node>
+<node id="DEWEY">
+  <data key="d0">DEWEY</data>
+</node>
+<node id="BILLY">
+  <data key="d0">BILLY</data>
+</node>
+<node id="RANDY">
+  <data key="d0">RANDY</data>
+</node>
+<node id="STU">
+  <data key="d0">STU</data>
+</node>
+<node id="GALE">
+  <data key="d0">GALE</data>
+</node>
+<node id="SHERIFF BURKE">
+  <data key="d0">SHERIFF BURKE</data>
+</node>
+<node id="KENNY">
+  <data key="d0">KENNY</data>
+</node>
+<node id="FATHER">
+  <data key="d0">FATHER</data>
+</node>
+<node id="MOTHER">
+  <data key="d0">MOTHER</data>
+</node>
+<node id="VOICE">
+  <data key="d0">VOICE</data>
+</node>
+<node id="MAN">
+  <data key="d0">MAN</data>
+</node>
+<node id="MAMA RILEY">
+  <data key="d0">MAMA RILEY</data>
+</node>
+<node id="CASEY">
+  <data key="d0">CASEY</data>
+</node>
+<node id="MR. HIMBRY">
+  <data key="d0">MR. HIMBRY</data>
+</node>
+<node id="REPORTER">
+  <data key="d0">REPORTER</data>
+</node>
+<node id="TEEN #1">
+  <data key="d0">TEEN #1</data>
+</node>
+<node id="TEEN #2">
+  <data key="d0">TEEN #2</data>
+</node>
+<node id="MR. PRESCOTT">
+  <data key="d0">MR. PRESCOTT</data>
+</node>
+<node id="REPORTER #1">
+  <data key="d0">REPORTER #1</data>
+</node>
+<node id="REPORTER #2">
+  <data key="d0">REPORTER #2</data>
+</node>
+<node id="MAN'S VOICE">
+  <data key="d0">MAN'S VOICE</data>
+</node>
+<node id="MR. LOOMIS">
+  <data key="d0">MR. LOOMIS</data>
+</node>
+<node id="GIRL #1">
+  <data key="d0">GIRL #1</data>
+</node>
+<node id="GIRL #2">
+  <data key="d0">GIRL #2</data>
+</node>
+<node id="GHOST #1">
+  <data key="d0">GHOST #1</data>
+</node>
+<node id="GHOST #2">
+  <data key="d0">GHOST #2</data>
+</node>
+<node id="CHECK OUT LADY">
+  <data key="d0">CHECK OUT LADY</data>
+</node>
+<node id="ANOTHER TEEN">
+  <data key="d0">ANOTHER TEEN</data>
+</node>
+<node id="SOME TEEN">
+  <data key="d0">SOME TEEN</data>
+</node>
+<node id="BORED TEEN">
+  <data key="d0">BORED TEEN</data>
+</node>
+<node id="BOY TEEN">
+  <data key="d0">BOY TEEN</data>
+</node>
+<node id="TEEN #3">
+  <data key="d0">TEEN #3</data>
+</node>
+<node id="OTHER GUYS">
+  <data key="d0">OTHER GUYS</data>
+</node>
+<edge source="SIDNEY" target="TATUM">
+  <data key="d1">21</data>
+</edge>
+<edge source="SIDNEY" target="DEWEY">
+  <data key="d1">12</data>
+</edge>
+<edge source="SIDNEY" target="BILLY">
+  <data key="d1">10</data>
+</edge>
+<edge source="SIDNEY" target="STU">
+  <data key="d1">8</data>
+</edge>
+<edge source="SIDNEY" target="RANDY">
+  <data key="d1">7</data>
+</edge>
+<edge source="SIDNEY" target="GALE">
+  <data key="d1">6</data>
+</edge>
+<edge source="SIDNEY" target="VOICE">
+  <data key="d1">3</data>
+</edge>
+<edge source="SIDNEY" target="MAN">
+  <data key="d1">3</data>
+</edge>
+<edge source="SIDNEY" target="MAMA RILEY">
+  <data key="d1">3</data>
+</edge>
+<edge source="SIDNEY" target="MR. HIMBRY">
+  <data key="d1">2</data>
+</edge>
+<edge source="SIDNEY" target="SHERIFF BURKE">
+  <data key="d1">2</data>
+</edge>
+<edge source="SIDNEY" target="REPORTER">
+  <data key="d1">2</data>
+</edge>
+<edge source="SIDNEY" target="MR. PRESCOTT">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="MAN'S VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="KENNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="GIRL #1">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="GIRL #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="GHOST #1">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="GHOST #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="CHECK OUT LADY">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="ANOTHER TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIDNEY" target="SOME TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TATUM" target="DEWEY">
+  <data key="d1">11</data>
+</edge>
+<edge source="TATUM" target="STU">
+  <data key="d1">6</data>
+</edge>
+<edge source="TATUM" target="GALE">
+  <data key="d1">5</data>
+</edge>
+<edge source="TATUM" target="BILLY">
+  <data key="d1">3</data>
+</edge>
+<edge source="TATUM" target="RANDY">
+  <data key="d1">3</data>
+</edge>
+<edge source="TATUM" target="MAMA RILEY">
+  <data key="d1">3</data>
+</edge>
+<edge source="TATUM" target="MAN">
+  <data key="d1">2</data>
+</edge>
+<edge source="TATUM" target="SHERIFF BURKE">
+  <data key="d1">2</data>
+</edge>
+<edge source="TATUM" target="KENNY">
+  <data key="d1">2</data>
+</edge>
+<edge source="TATUM" target="REPORTER">
+  <data key="d1">2</data>
+</edge>
+<edge source="TATUM" target="MAN'S VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="TATUM" target="CHECK OUT LADY">
+  <data key="d1">1</data>
+</edge>
+<edge source="TATUM" target="ANOTHER TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TATUM" target="SOME TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="GALE">
+  <data key="d1">7</data>
+</edge>
+<edge source="DEWEY" target="SHERIFF BURKE">
+  <data key="d1">5</data>
+</edge>
+<edge source="DEWEY" target="MAMA RILEY">
+  <data key="d1">3</data>
+</edge>
+<edge source="DEWEY" target="MR. HIMBRY">
+  <data key="d1">2</data>
+</edge>
+<edge source="DEWEY" target="REPORTER">
+  <data key="d1">2</data>
+</edge>
+<edge source="DEWEY" target="BILLY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="CHECK OUT LADY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="KENNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="ANOTHER TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="RANDY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="SOME TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DEWEY" target="STU">
+  <data key="d1">1</data>
+</edge>
+<edge source="BILLY" target="STU">
+  <data key="d1">6</data>
+</edge>
+<edge source="BILLY" target="RANDY">
+  <data key="d1">4</data>
+</edge>
+<edge source="BILLY" target="VOICE">
+  <data key="d1">2</data>
+</edge>
+<edge source="BILLY" target="SHERIFF BURKE">
+  <data key="d1">2</data>
+</edge>
+<edge source="BILLY" target="MR. PRESCOTT">
+  <data key="d1">1</data>
+</edge>
+<edge source="BILLY" target="MR. LOOMIS">
+  <data key="d1">1</data>
+</edge>
+<edge source="BILLY" target="GALE">
+  <data key="d1">1</data>
+</edge>
+<edge source="RANDY" target="STU">
+  <data key="d1">8</data>
+</edge>
+<edge source="RANDY" target="GALE">
+  <data key="d1">3</data>
+</edge>
+<edge source="RANDY" target="TEEN #1">
+  <data key="d1">2</data>
+</edge>
+<edge source="RANDY" target="TEEN #2">
+  <data key="d1">2</data>
+</edge>
+<edge source="RANDY" target="VOICE">
+  <data key="d1">2</data>
+</edge>
+<edge source="RANDY" target="ANOTHER TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="RANDY" target="SOME TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="RANDY" target="BORED TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="RANDY" target="BOY TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="RANDY" target="TEEN #3">
+  <data key="d1">1</data>
+</edge>
+<edge source="RANDY" target="OTHER GUYS">
+  <data key="d1">1</data>
+</edge>
+<edge source="STU" target="GALE">
+  <data key="d1">2</data>
+</edge>
+<edge source="STU" target="VOICE">
+  <data key="d1">2</data>
+</edge>
+<edge source="STU" target="ANOTHER TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="STU" target="SOME TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="STU" target="BORED TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="STU" target="BOY TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="STU" target="TEEN #1">
+  <data key="d1">1</data>
+</edge>
+<edge source="STU" target="TEEN #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="STU" target="TEEN #3">
+  <data key="d1">1</data>
+</edge>
+<edge source="GALE" target="KENNY">
+  <data key="d1">4</data>
+</edge>
+<edge source="GALE" target="REPORTER #1">
+  <data key="d1">1</data>
+</edge>
+<edge source="GALE" target="REPORTER #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="GALE" target="MR. HIMBRY">
+  <data key="d1">1</data>
+</edge>
+<edge source="GALE" target="SHERIFF BURKE">
+  <data key="d1">1</data>
+</edge>
+<edge source="GALE" target="ANOTHER TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="GALE" target="SOME TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="GALE" target="VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="SHERIFF BURKE" target="MR. HIMBRY">
+  <data key="d1">2</data>
+</edge>
+<edge source="SHERIFF BURKE" target="MR. LOOMIS">
+  <data key="d1">1</data>
+</edge>
+<edge source="FATHER" target="MOTHER">
+  <data key="d1">3</data>
+</edge>
+<edge source="FATHER" target="CASEY">
+  <data key="d1">1</data>
+</edge>
+<edge source="MOTHER" target="CASEY">
+  <data key="d1">1</data>
+</edge>
+<edge source="VOICE" target="MR. PRESCOTT">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAN" target="CASEY">
+  <data key="d1">2</data>
+</edge>
+<edge source="MAN" target="MAN'S VOICE">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAN" target="MAMA RILEY">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAN" target="GIRL #1">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAN" target="GIRL #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAMA RILEY" target="REPORTER">
+  <data key="d1">1</data>
+</edge>
+<edge source="MR. HIMBRY" target="GHOST #1">
+  <data key="d1">1</data>
+</edge>
+<edge source="MR. HIMBRY" target="GHOST #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="TEEN #1" target="TEEN #2">
+  <data key="d1">2</data>
+</edge>
+<edge source="TEEN #1" target="BORED TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TEEN #1" target="BOY TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TEEN #1" target="TEEN #3">
+  <data key="d1">1</data>
+</edge>
+<edge source="TEEN #2" target="BORED TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TEEN #2" target="BOY TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TEEN #2" target="TEEN #3">
+  <data key="d1">1</data>
+</edge>
+<edge source="REPORTER #1" target="REPORTER #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="GIRL #1" target="GIRL #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="GHOST #1" target="GHOST #2">
+  <data key="d1">1</data>
+</edge>
+<edge source="ANOTHER TEEN" target="SOME TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="BORED TEEN" target="BOY TEEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="BORED TEEN" target="TEEN #3">
+  <data key="d1">1</data>
+</edge>
+<edge source="BOY TEEN" target="TEEN #3">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
